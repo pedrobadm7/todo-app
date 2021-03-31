@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+
 
  Todo-App é uma agenda online criada de maneira simples para treinar minhas habilidades com React.js
 
